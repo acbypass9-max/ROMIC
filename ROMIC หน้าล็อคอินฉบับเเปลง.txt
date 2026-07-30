@@ -1,4 +1,4 @@
-local StrToNumber = tonumber;
+local StrToNumber = tonumber;  
 local Byte = string.byte;
 local Char = string.char;
 local Sub = string.sub;
